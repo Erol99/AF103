@@ -32,6 +32,7 @@ Syntax highlighted code block
 ![Google Gamez](https://www.maketecheasier.com/assets/uploads/2016/10/hidden-google-games-feature-800x400.jpg)
 
 
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
