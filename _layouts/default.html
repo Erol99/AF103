@@ -39,10 +39,13 @@
     </header>
 
     <main id="content" class="main-content" role="main">
+      
+      {% include navigation.html %}
+      
       {{ content }}
       
       {% include facebook.html %}
-      {% include navigation.html %}
+
 
       <footer class="site-footer">
         {% if site.github.is_project_page %}
