@@ -4,8 +4,10 @@ title: Another page
 description: This is just another page
 ---
 
-## Welcome to another page
+## Welcome to NEWS page
 
-_yay_
+Hello and welcome 
 
 [back](./)
+
+{% include footer.html %}(facebook.html)
