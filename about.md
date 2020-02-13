@@ -1,11 +1,11 @@
 ---
 layout: default
-title: News
+title: About
 description: This is just another page
 
 ---
 
-## News 
+## About 
 
 
 
