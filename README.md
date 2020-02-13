@@ -29,7 +29,7 @@ Syntax highlighted code block
 
 [Google Gamez](https://www.google.com/doodles/?q=interactive)
 
-![Google Gamez](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.maketecheasier.com%2Fhidden-google-games%2F&psig=AOvVaw04VElYZ51WGrV5RyiVenps&ust=1581692517850000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCt8PflzucCFQAAAAAdAAAAABAD)
+![Google Gamez](https://www.maketecheasier.com/assets/uploads/2016/10/hidden-google-games-feature-800x400.jpg)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
