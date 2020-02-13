@@ -25,7 +25,11 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[https://www.google.com/doodles/?q=interactive]
+
+
+[Google Games](https://www.google.com/doodles/?q=interactive)
+
+![Google Games](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.maketecheasier.com%2Fhidden-google-games%2F&psig=AOvVaw04VElYZ51WGrV5RyiVenps&ust=1581692517850000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCt8PflzucCFQAAAAAdAAAAABAD)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
