@@ -5,7 +5,7 @@ description: This is just another page
 
 ---
 
-## Welcome to NEWS page
+## about ##
 
 
 
