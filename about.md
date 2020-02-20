@@ -1,16 +1,13 @@
 ---
 layout: default
 title: About
-description: This is just another page
+description: 
 
 ---
 
 ## About 
 
-
-
-
-Hello and welcome 
+description: This website to help out students with very little money. 
 
 [back](./)
 
