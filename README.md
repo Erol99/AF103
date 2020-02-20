@@ -27,9 +27,7 @@ Syntax highlighted code block
 ```
 
 
-[Google Gamez](https://www.google.com/doodles/?q=interactive)
 
-![Google Gamez](https://www.maketecheasier.com/assets/uploads/2016/10/hidden-google-games-feature-800x400.jpg)
 
 
 
