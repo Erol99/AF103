@@ -15,6 +15,8 @@ healthyliving@gmail.com
 
 RH18 8PY 
 
+[Image of happy person](https://images.unsplash.com/photo-1515023115689-589c33041d3c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1234&q=80)
+
 [back](./)
 
 
